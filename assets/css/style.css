@@ -320,6 +320,12 @@
   text-align: center;
 }
 
+.footer a:hover {
+  border-bottom: 1px solid #ececec;
+  border-bottom-color: #01bfbd;
+  box-sizing: border-box;
+}
+
 .footer p, .resend-mail {
   margin-bottom: 8px;
   line-height: 16px;
